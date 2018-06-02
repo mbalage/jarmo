@@ -1,0 +1,4 @@
+adb uninstall com.mbd.jarmo
+call ant debug
+adb install bin/JarmoMain-debug.apk
+adb logcat

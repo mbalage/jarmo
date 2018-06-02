@@ -1,0 +1,9 @@
+#c:\Users\mbalage\workspace\Jarmo>keytool -genkey -v -keystore jarmo-release-key.keystore -alias jarmo -keyalg RSA -keysize 2048 -validity 10000
+
+call ant release
+del JarmoMain-release.apk
+del JarmoMain-release-aligned.apk
+copy bin\JarmoMain-release-unsigned.apk JarmoMain-release.apk
+"c:\Program Files (x86)\Java\jdk1.7.0_10"\bin\jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore jarmo-release-key.keystore JarmoMain-release.apk jarmo
+C:\munka\!android\adt-bundle-windows-x86\sdk\tools\zipalign -v 4 JarmoMain-release.apk JarmoMain-release-aligned.apk
+del JarmoMain-release.apk

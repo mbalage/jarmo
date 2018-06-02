@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_settings">Settings</string>
+    <string name="WelcomeText">Üdv a Jarmoban!</string>
+    <string name="AcceptedGame">elfogadta a kihívást</string>
+    <string name="JarmoNotUptodate">Jarmo verzió túl régi.</string>
+    <string name="OtherPartyLeftGame">A másik fél lelépett.</string>
+    <string name="OtherPartyRejected">A másik fél visszautasított.</string>
+    <string name="MenuBlackArchers1">Játék fekete</string>
+    <string name="MenuBlackArchers2">íjászokkal</string>
+    <string name="MenuWhiteArchers1">Játék fehér</string>
+    <string name="MenuWhiteArchers2">íjászokkal</string>
+    <string name="MenuRandomArchers1">Játék </string>
+    <string name="MenuRandomArchers2">felváltva</string>
+    <string name="MenuBack">Vissza</string>
+    <string name="MenuTitlePhone">Játék Jarmoid ellen</string>
+    <string name="MenuTitleStrength">Nehézségi szint</string>
+    <string name="app_name">Jarmo</string>
+    <string name="MenuAccept">Elfogadom</string>
+    <string name="MenuReject">Elutasítom</string>
+    <string name="IncomingGameRequest">Játék kihívás érkezett</string>
+    <string name="WifiNotAvailable">WIFI nem elérhető.</string>
+    <string name="EnemySearchWifi">Ellenfél keresés WIFI-n</string>
+    <string name="SearchingForEnemies">Ellenfelek keresése...</string>
+    <string name="MenuCancel">Mégsem</string>
+    <string name="MenuAgainstAndroid1">Játék</string>
+    <string name="MenuAgainstAndroid2">Jarmoid ellen</string>
+        <string name="MenuClassicGame1">Jarmo</string>
+       <string name="MenuClassicGame2">gyakorlás</string> 
+        <string name="MenuTournament1">Jarmo</string>
+        <string name="MenuTournament2">hadjárat!</string>
+
+        <string name="MenuResetRecord1">Hadjárat rekord</string>
+        <string name="MenuResetRecord2">törlése</string>
+
+        <string name="War">Hadjárat</string>
+        <string name="Battle">Csata</string>
+        <string name="Points">Pont</string>
+        <string name="Lost">VESZTETTÉL</string>
+        <string name="AttackFromTop">Fentről támadsz</string>
+        <string name="AttackFromBottom">Lentről támadsz</string>
+        <string name="JarmoidStarts">Jarmoid kezd</string>
+        <string name="TimeForStep">Lépésenkénti időlimit</string>
+        <string name="Seconds">mp</string>
+        <string name="YourHighScore">Saját rekord</string>
+        <string name="NoHighScore">Még nincs hadjárat rekordod.</string>
+        <string name="HighScoreResetOK">Hadjárat rekord törölve</string>
+        <string name="BattlesAndPoints">Elért pontok</string>  
+        <string name="Total">Összesen</string>
+        <string name="MenuManageHighscores1">Hadjárat</string>
+        <string name="MenuManageHighscores2">toplista</string>
+        
+        <string name="SetUsername">Válassz Jarmo nevet:</string>
+        <string name="MenuReady">Kész</string>
+        <string name="MenuSeeRecords1">Toplista</string>
+        <string name="MenuSeeRecords2">megtekintése</string>
+        <string name="RecordFetchError1">Toplista letöltése sikertelen.</string>
+        <string name="ToplistEmpty">Toplista üres.</string>
+        
+        <string name="MenuAllow1">Részvétel a</string>
+        <string name="MenuAllow2">toplistában</string>
+        <string name="AllowMain">Részvétel a toplistában</string>
+        <string name="AllowLine1">Engedélyezem, hogy a fiókom</string>
+        <string name="AllowLine2">neve a pontszámommal</string>
+        <string name="AllowLine3">megjelenjen a toplistában.</string>
+        <string name="AllowNotAllowed">(Jelenleg tiltva)</string>
+        <string name="Yes">Igen</string>
+        <string name="No">Nem</string>
+        <string name="AllowConfirm">Részvétel engedélyezve</string>
+        <string name="AllowConfirmNo">Részvétel tiltva</string>
+       
+        
+        <string name="JarmoNameConfirm">Jarmo név elmentve.</string>
+        <string name="JarmoNameNone">Nincs név megadva.</string>
+        <string name="JarmoNameExists">Választott név már foglalt.</string>
+        
+        
+    <string name="MenuOneOnOne1">Kétszemélyes</string>
+    <string name="MenuOneOnOne2">játék</string>
+    <string name="MenuSearchWifi1">Játék WIFI-n</string>
+    <string name="MenuSearchWifi2">keresztül</string>
+    <string name="MenuWhatIs1">Mi az a</string>
+    <string name="MenuWhatIs2">Jarmo?</string>
+    <string name="NotAvailable">Nem elérhető.</string>
+    <string name="OtherPartyStarts">Másik fél kezd</string>
+    <string name="YouStart">Te kezdesz</string>
+    <string name="OtherPartyPaused">Másik fél nem figyel</string>
+    <string name="OtherPartyReturned">Másik fél visszatért</string>
+    <string name="WifiGameTerminated">WIFI játék vége</string>
+    <string name="HelpStr1">Jarmo egy ősi mongol táblajáték. A legenda szerint Batu Kán rendszeresen játszott a csatái előtt, hogy felkészítse magát a harcra.</string>
+    <string name="HelpStr2">A táblán 5x5 mező található, amin fekete és fehér íjászok játszanak egymás ellen. Az íjászok csak az összekötött mezőkön mozoghatnak. Nyitáskor az íjászok a kezdő sor mezőire kerülnek.</string>
+    <string name="HelpStr3">Íjászok a szabad, vagy ellenfél által foglalt mezőkre léphetnek. A visszalépés megengedett, de oda-vissza maximum négyszer. A cél: elfoglalni az ellenfél startvonalát amennyi íjásszal csak lehet.</string>
+    <string name="HelpStr4">Lépéskor az ellenfél íjásza leüthető. Ekkor az íjász jelölést kap, a leütött íjász pedig lekerül a tábláról.</string>
+    <string name="HelpStr5">Ha sikerül célba érni egy megjelölt íjásszal, egy korábban leütött íjász visszatehető a startvonalra, ha van szabad mező. A célba ért íjász nem mozdítható többet, de bármikor leüthető az ellenfél által.</string>
+    <string name="HelpStr6">A játék addig folytatódik, amíg a soron következő játékos lépni tud.</string>
+    <string name="HelpStr7">Amikor a játék véget ér, a játékosok pontszámai kiszámításra kerülnek. A célba ért íjászok 2 pontot, míg a többi, táblán maradt íjászok 1 pontot érnek.</string>
+    <string name="HelpStr8">További információ a játék eredeti, angol nyelvű oldalán olvasható: wikipedia.org/wiki/Jarmo_(game)</string>
+    <string name="NameYou">Én</string>
+    <string name="NameAndroid">Jarmoid</string>
+    <string name="NameBlack">Fekete</string>
+    <string name="NameWhite">Fehér</string>
+    <string name="NameWifiYou">Én</string>
+    <string name="WifiFailed">sikertelen</string>
+    <string name="WifiSuccess">sikeres</string>
+    <string name="NoWifiEnemyFound">WIFI ellenfél keresés vége.</string>
+    <string name="MenuAgain1">Keress</string>
+    <string name="MenuAgain2">újra</string>
+    <string name="WaitingForResp">Várakozás válaszra...</string>
+    <string name="NoEnemyFound">Nem talált ellenfelet?</string>
+    <string name="WifiMakeSure">Be van kapcsolva a WiFi, és a Jarmo</string>
+    <string name="WifiMakeSure2">el van indítva a partner telefonon?</string>
+    <string name="MenuAndroidWeak1">Jarmoid</string>
+    <string name="MenuAndroidWeak2">gyenge ellenfél</string>
+    <string name="MenuAndroidMedium1">Jarmoid</string>
+    <string name="MenuAndroidMedium2">közepes ellenfél</string>
+    <string name="MenuAndroidStrong1">Jarmoid</string>
+    <string name="MenuAndroidStrong2">erős ellenfél</string>
+    <string name="TemporaryUnavailable">Ez a funkció nem elérhető.</string>
+
+</resources>

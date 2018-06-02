@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_settings">Einstellungen</string>
+    <string name="WelcomeText">Willkommen bei Jarmo!</string>
+    <string name="AcceptedGame">hat das Spiel akzeptiert</string>
+    <string name="JarmoNotUptodate">Falsche Jarmo version.</string>
+    <string name="OtherPartyLeftGame">Andere Partei ist ausgetreten.</string>
+    <string name="OtherPartyRejected">Andere Partei lehnte das Spiel.</string>
+    <string name="MenuClassicGame1">Jarmo</string>
+    <string name="MenuClassicGame2">Warm-up</string>
+
+    <string name="MenuTournament1">Jarmo</string>
+    <string name="MenuTournament2">Challenge!</string>
+
+    <string name="MenuResetRecord1">High score</string>
+    <string name="MenuResetRecord2">löschen</string>
+
+        <string name="War">Kampagne</string>
+        <string name="Battle">Schlacht</string>
+        <string name="Points">Punkte</string>
+        <string name="Lost">VERLOREN</string>
+        <string name="AttackFromTop">Du greifst von oben</string>
+        <string name="AttackFromBottom">Du greifst von unten</string>
+        <string name="JarmoidStarts">Jarmoid beginnt</string>
+        <string name="TimeForStep">Denkzeit pro Schritt</string>
+        <string name="Seconds">s </string>
+        <string name="YourHighScore">Mein Highscore</string>
+        <string name="NoHighScore">Keine Highscore wurde aufgestellt</string>
+        <string name="HighScoreResetOK">Highscore wurde gelöscht</string>
+        <string name="BattlesAndPoints">Punkte pro Kampagne</string>
+         <string name="Total">Total</string>
+         
+       <string name="MenuManageHighscores1">Kampagne</string>
+        <string name="MenuManageHighscores2">Toplist</string>
+        
+        <string name="SetUsername">Username wahlen:</string>
+        <string name="MenuReady">Fertig</string>
+        <string name="MenuSeeRecords1">Toplist</string>
+        <string name="MenuSeeRecords2">anschauen</string>
+        <string name="RecordFetchError1">Fehler beim Download.</string>
+        <string name="ToplistEmpty">Toplist ist lehr.</string>
+        
+        <string name="MenuAllow1">Highscores</string>
+        <string name="MenuAllow2">veröffentlichen</string>
+        <string name="AllowMain">Highscores veröffentlichen</string>
+        <string name="AllowLine1">Ich erlaube mein Highscores</string>
+        <string name="AllowLine2">mit mein Account Name</string>
+        <string name="AllowLine3">name in Toplist zu erscheinen.</string>
+        <string name="AllowNotAllowed">(Momentan nicht erlaubt)</string>
+        <string name="Yes">Ja</string>
+        <string name="No">Nein</string>
+        <string name="AllowConfirm">Veröffentlichung aktiviert.</string>
+        <string name="AllowConfirmNo">Veröffentlichung deaktiviert.</string>
+       
+        
+        <string name="JarmoNameConfirm">Name ist gespeichert.</string>
+        <string name="JarmoNameNone">Kein Name wurde eingegeben.</string>
+        <string name="JarmoNameExists">Name ist schon besetzt.</string>
+        
+        
+    <string name="MenuBlackArchers1">Schwarze</string>
+    <string name="MenuBlackArchers2">Schützen</string>
+    <string name="MenuWhiteArchers1">Weiße</string>
+    <string name="MenuWhiteArchers2">Schützen</string>
+    <string name="MenuRandomArchers1">Zufällige</string>
+    <string name="MenuRandomArchers2">Schützen</string>
+    <string name="MenuBack">Zurück</string>
+    <string name="MenuTitlePhone">Ein Spieler Mode</string>
+    <string name="MenuTitleStrength">Jarmoid Spielstärke</string>
+    <string name="app_name">Jarmo</string>
+    <string name="MenuAccept">Akzeptieren</string>
+    <string name="MenuReject">Ablehnen</string>
+    <string name="IncomingGameRequest">Du hast eine Spielaufforderung erhalten.</string>
+    <string name="WifiNotAvailable">WIFI nicht erreichbar.</string>
+    <string name="EnemySearchWifi">Gegner auf WIFI suchen</string>
+    <string name="SearchingForEnemies">Jarmo sucht für Gegner...</string>
+    <string name="MenuCancel">Abbrechen</string>
+    <string name="MenuAgainstAndroid1">Ein Spieler</string>
+    <string name="MenuAgainstAndroid2">Mode</string>
+    <string name="MenuOneOnOne1">Zwei Spieler</string>
+    <string name="MenuOneOnOne2">Mode</string>
+    <string name="MenuSearchWifi1">Spieler auf</string>
+    <string name="MenuSearchWifi2">WIFI suchen</string>
+    <string name="MenuWhatIs1">Was ist</string>
+    <string name="MenuWhatIs2">Jarmo?</string>
+    <string name="NotAvailable">Noch nicht erreichbar.</string>
+    <string name="OtherPartyStarts">Andere Partei beginnt</string>
+    <string name="YouStart">Du beginnst</string>
+    <string name="OtherPartyPaused">Andere Partei ist weg</string>
+    <string name="OtherPartyReturned">Andere Partei ist zurück</string>
+    <string name="WifiGameTerminated">Wifi Spiel ist beendet</string>
+    <string name="HelpStr1">Jarmo ist ein altes tatarisches Brettspiel. Nach der Sage hat Batu Khan damit vor seinen Schlachten gespielt, um sich auf dem Kampf vorzubereiten.</string>
+    <string name="HelpStr2">Jarmo Brett hat 5x5 Felder, auf denen schwarze und weiße Schützen gegeneinander spielen. Schützen dürfen sich nur auf miteinander durch eine Linie verbundenen Felder bewegen. Am Anfang, sollen die Schützen auf dem Brett, auf der Startlinie aufgestellt werden.</string>
+    <string name="HelpStr3">Schützen können entweder ein lehren Feld betreten, oder einen gegnerischen Schütze schlagen. Es ist auch möglich, sich rückwärts zu bewegen, aber nur maximal vier (4) Mal. Das Ziel des Spiels ist, die Startlinie des Gegners mit so vielen eigenen Schützen wie möglich zu erreichen.</string>
+    <string name="HelpStr4">Ein gegnerischer Schütze kann immer geschlagen (gefangen) werden. Wenn dies passiert, wird der Schütze markiert, und der gefangene Schütze wird von dem Brett herausgenommen.</string>
+    <string name="HelpStr5">Wenn ein markierter Schütze die gegnerische Startlinie erreicht, kann ein früher gefangener Schütze auf dem Brett zur Startlinie zurückgesetzt werden, aber nur wenn es dort ein freies Feld gibt. Der Schütze, der die gegnerische Startlinie erreicht hat, kann nicht mehr bewegt werden, aber kann doch immer geschlagen werden.</string>
+    <string name="HelpStr6">Ein Spiel (Krieg) geht weiter, solange sich die nächste Partei bewegen kann.</string>
+    <string name="HelpStr7">Wenn das Spiel beendet ist, werden Punktzahlen für beide Parteien berechnet: für einen Schüzten der die gegnerische Startlinie erreicht hat, bekommt man 2 Punkte, für die anderen die auf dem Brett bleiben konnten, 1 Punkt.</string>
+    <string name="HelpStr8">Weitere informationen: wikipedia.org/wiki/Jarmo_(game)</string>
+    <string name="NameYou">Ich</string>
+    <string name="NameAndroid">Jarmoid</string>
+    <string name="NameBlack">Schwarz</string>
+    <string name="NameWhite">Weiß</string>
+    <string name="NameWifiYou">Ich</string>
+    <string name="WifiFailed">unerfolgreich</string>
+    <string name="WifiSuccess">gefunden</string>
+    <string name="NoWifiEnemyFound">Kein Gegner gefunden.</string>
+    <string name="MenuAgain1">Wieder</string>
+    <string name="MenuAgain2">suchen</string>
+    <string name="WaitingForResp">Auf Antwort warten...</string>
+    <string name="NoEnemyFound">Kein Gegner gefunden?</string>
+    <string name="WifiMakeSure">Ist WiFi eingeschaltet und ist Jarmo</string>
+    <string name="WifiMakeSure2">gestartet auf dem anderen Gerät?</string>
+    <string name="MenuAndroidWeak1">Jarmoid spielt</string>
+    <string name="MenuAndroidWeak2">schwach</string>
+    <string name="MenuAndroidMedium1">Jarmoid spielt</string>
+    <string name="MenuAndroidMedium2">gut</string>
+    <string name="MenuAndroidStrong1">Jarmoid spielt</string>
+    <string name="MenuAndroidStrong2">sehr gut</string>
+    <string name="GameLevelTitle">Spielstärke</string>
+    <string name="GameLevel1">Klassisches Jarmo Spiel</string>
+    <string name="GameLevel2">Klassisches Jarmo Spiel mit timer</string>
+    <string name="GameLevel3">Jasir</string>
+    <string name="GameLevel4">Jasir mit Timer</string>
+    <string name="GameLevel5">Random Felder</string>
+    <string name="GameLevel6">Random Felder mit Timer</string>
+    <string name="GameLevel7">Dynamische Felder</string>
+    <string name="GameLevel8">Dynamische Felder mit Timer</string>
+    <string name="GameLevel9">7x7 Felder</string>
+    <string name="GameLevel10">7x7 Felder mit Timer</string>
+    <string name="GameLevel11">9x9 Felder</string>
+    <string name="GameLevel12">9x9 Felder mit Timer</string>
+    <string name="TemporaryUnavailable">Diese Funktion ist nicht verfügbar</string>
+    
+</resources>

@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:51
+-keep class com.mbd.jarmo.JarmoMain { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class com.mbd.jarmo.JarmoSetting { <init>(...); }
+
